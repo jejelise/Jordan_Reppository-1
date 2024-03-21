@@ -1,6 +1,6 @@
 /* Place CSS styles here */
 body{
-    background-color: darkslategrey;
-    color: floralwhite;
+    background-color: rgb(255, 255, 255);
+    color: teal;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
